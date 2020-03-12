@@ -18,4 +18,4 @@ Nous utilisons ensuite le convertisseur TensorFlow Lite et quelques lignes de Py
 Nous développons notre application à l'aide *Android Studio* en Java et Exécutons notre modèle sur le périphérique avec l’interpréteur TensorFlow Lite, avec des API dans de nombreuses langues.
 
 ## 5. Optimisez votre modèle
-Optimisation du modèle pour réduire la taille de notre modèle et augmenter son efficacité avec un impact minimal sur la précision sur mobile.
+Optimisation du modèle pour réduire la taille de notre modèle et augmenter son efficacité avec un impact minimal sur la précision sur mobile. 
